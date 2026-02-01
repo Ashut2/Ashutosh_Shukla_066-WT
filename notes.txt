@@ -1,0 +1,9 @@
+Sample files created on 2026-02-02.
+
+Files included:
+- index.html (HTML example)
+- main.cpp (C++ example)
+- Main.java (Java example)
+- script.py (Python example)
+
+Use these as simple starting points or tests.

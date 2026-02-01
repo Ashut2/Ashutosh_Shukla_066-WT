@@ -1,0 +1,17 @@
+File descriptions for c:\Users\a\OneDrive\Desktop\scenario_1
+
+- index.html: Simple HTML page with a heading 'Hello from HTML'.
+
+- main.cpp: C++ program implementing the Two Sum algorithm (O(n) using an unordered_map) and a small example. Compile: g++ main.cpp -o main; Run: .\main
+
+- Main.java: Java program that finds the second largest element without sorting; includes examples and edge-case outputs. Compile: javac Main.java; Run: java Main
+
+- script.py: Simple Python script that prints 'Hello from Python'. Run: python script.py
+
+- notes.txt: Plain-text notes created on 2026-02-02 listing sample files and brief info.
+
+- info.txt: This file — contains descriptions of the files in this folder (you are reading it).
+
+- .git/: Git repository metadata folder (version control information).
+
+Last updated: 2026-02-02
