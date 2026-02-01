@@ -17,4 +17,4 @@ A small sample workspace containing example files in multiple languages (HTML, C
 On Windows Git may convert LF to CRLF in the working copy. To control behavior, set `core.autocrlf` or add a `.gitattributes` file (e.g., `*.txt text eol=lf`).
 
 ## Contact / Author ✉️
-Created on 2026-02-02. Update these notes as you add files or examples.
+Created on 2026-02-02.
