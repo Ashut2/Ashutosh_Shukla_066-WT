@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+
+# Node / build artifacts (future-proof)
+node_modules
+dist
+build
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+
+# Docker files not needed in image
+docker-compose.yml
