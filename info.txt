@@ -10,7 +10,7 @@ File descriptions for c:\Users\a\OneDrive\Desktop\scenario_1
 
 - notes.txt: Plain-text notes created on 2026-02-02 listing sample files and brief info.
 
-- info.txt: This file — contains descriptions of the files in this folder (you are reading it).
+- info.txt: This file  contains descriptions of the files in this folder (you are reading it).
 
 - .git/: Git repository metadata folder (version control information).
 
